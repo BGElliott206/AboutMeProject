@@ -1,0 +1,22 @@
+body {
+ 
+  background-image: url('https://fm.cnbc.com/applications/cnbc.com/resources/img/editorial/2017/06/20/104540684-GettyImages-530874379.1910x1000.jpg');
+  }   
+h1 { 
+  color:rgb(121, 63, 197);
+  font-size: 50px;
+  text-decoration: underline;
+  font-family:'Times New Roman', Times, serif
+
+  }
+img.align-center{
+  border: 8px double rgb(121, 63, 197);
+  
+}  
+ul {
+  color: rgb(121, 63, 197);
+  background-color: darkseagreen;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 30px;
+}  
+
